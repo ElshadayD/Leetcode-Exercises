@@ -1,6 +1,6 @@
-#Question
+
 # Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
-#Answer
+
 class Solution(object):
     def strStr(self, haystack, needle):
      
